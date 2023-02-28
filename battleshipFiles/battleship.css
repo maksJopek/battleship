@@ -1,0 +1,15 @@
+.ul
+{
+	list-style-type: none;
+}
+
+#whosTurn {
+	position: fixed;
+	bottom: 10rem;
+	left: 50%;
+	translate: -50%;
+}
+
+body {
+	height: 100vh;
+}
